@@ -1,5 +1,5 @@
 {
-  "code": 326,
-  "name": "3.2.6",
-  "desc": "* [App]\n* Fix bugs"
+  "code": 327,
+  "name": "3.2.7",
+  "desc": "* [App]\n* Fix jar load\n* [Vod]\n* Remove obj/tos sniffer rule\n* Set danmaku timeout to 30 seconds\n* [Live]\n* Add p2p so"
 }
