@@ -1,21 +1,9 @@
-# 電視版 3.2.8
+# 電視版 3.2.9
 
 * [App]
-* Fix jar load
-* [Vod]
-* Fix t4 ext get/post
-* Remove obj/tos sniffer rule
-* Set danmaku timeout to 30 seconds
-* [Live]
-* Add p2p so
+* Fix DLNA on wired network
 
-# 手機版 3.2.8
+# 手機版 3.2.9
 
 * [App]
-* Fix jar load
-* [Vod]
-* Fix t4 ext get/post
-* Remove obj/tos sniffer rule
-* Set danmaku timeout to 30 seconds
-* [Live]
-* Add p2p so
+* Fix DLNA on wired network
