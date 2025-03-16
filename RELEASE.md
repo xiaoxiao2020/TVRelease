@@ -1,9 +1,9 @@
-# 電視版 3.3.0
+# 電視版 3.3.1
 
 * [App]
-* Fix crash
+* Fix dlna continuous playback
 
-# 手機版 3.3.0
+# 手機版 3.3.1
 
 * [App]
-* Fix crash
+* Fix dlna continuous playback
