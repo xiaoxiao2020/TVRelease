@@ -1,5 +1,5 @@
 {
-  "code": 329,
-  "name": "3.2.9",
-  "desc": "* [App]\n* Fix DLNA on wired network"
+  "code": 330,
+  "name": "3.3.0",
+  "desc": "* [App]\n* Fix crash"
 }

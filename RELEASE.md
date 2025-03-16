@@ -1,9 +1,9 @@
-# 電視版 3.2.9
+# 電視版 3.3.0
 
 * [App]
-* Fix DLNA on wired network
+* Fix crash
 
-# 手機版 3.2.9
+# 手機版 3.3.0
 
 * [App]
-* Fix DLNA on wired network
+* Fix crash
