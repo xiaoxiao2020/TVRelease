@@ -1,5 +1,5 @@
 {
-  "code": 331,
-  "name": "3.3.1",
-  "desc": "* [App]\n* Fix dlna continuous playback"
+  "code": 332,
+  "name": "3.3.2",
+  "desc": "* [App]\n* Fix dlna crash"
 }
