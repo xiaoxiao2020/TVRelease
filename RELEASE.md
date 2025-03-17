@@ -1,9 +1,9 @@
-# 電視版 3.3.2
+# 電視版 3.3.3
 
 * [App]
-* Fix dlna crash
+* Fix crash
 
-# 手機版 3.3.2
+# 手機版 3.3.3
 
 * [App]
-* Fix dlna crash
+* Fix crash
