@@ -1,9 +1,9 @@
-# 電視版 3.3.3
+# 電視版 3.3.4
 
 * [App]
-* Fix crash
+* Fix bug
 
-# 手機版 3.3.3
+# 手機版 3.3.4
 
 * [App]
-* Fix crash
+* Fix bug
