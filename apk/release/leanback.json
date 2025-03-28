@@ -1,5 +1,5 @@
 {
-  "code": 336,
-  "name": "3.3.6",
-  "desc": "* [Media3]\n* Update to 1.6.0\n* [App]\n* Fix bug"
+  "code": 337,
+  "name": "3.3.7",
+  "desc": "* [App]\n* Add libass"
 }

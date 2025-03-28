@@ -1,13 +1,9 @@
-# 電視版 3.3.6
+# 電視版 3.3.7
 
-* [Media3]
-* Update to 1.6.0
 * [App]
-* Fix bug
+* Add libass
 
-# 手機版 3.3.6
+# 手機版 3.3.7
 
-* [Media3]
-* Update to 1.6.0
 * [App]
-* Fix bug
+* Add libass
