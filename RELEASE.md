@@ -1,9 +1,9 @@
-# 電視版 3.3.8
+# 電視版 3.3.9
 
 * [App]
-* Add libass
+* Remove libass
 
-# 手機版 3.3.8
+# 手機版 3.3.9
 
 * [App]
-* Add libass
+* Remove libass
