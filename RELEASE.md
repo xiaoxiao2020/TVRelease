@@ -1,9 +1,9 @@
-# 電視版 3.4.0
+# 電視版 3.4.1
 
-* [App]
-* Fix w/h bug
+* [Vod]
+* Config add hide
 
-# 手機版 3.4.0
+# 手機版 3.4.1
 
-* [App]
-* Fix w/h bug
+* [Vod]
+* Config add hide
