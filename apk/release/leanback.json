@@ -1,5 +1,5 @@
 {
-  "code": 339,
-  "name": "3.3.9",
-  "desc": "* [App]\n* Remove libass"
+  "code": 340,
+  "name": "3.4.0",
+  "desc": "* [App]\n* Fix w/h bug"
 }

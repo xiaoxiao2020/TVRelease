@@ -1,9 +1,9 @@
-# 電視版 3.3.9
+# 電視版 3.4.0
 
 * [App]
-* Remove libass
+* Fix w/h bug
 
-# 手機版 3.3.9
+# 手機版 3.4.0
 
 * [App]
-* Remove libass
+* Fix w/h bug
